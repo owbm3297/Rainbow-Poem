@@ -5,6 +5,7 @@ pink
 Orange
 Blue
 Green
+indeigo
 unicorn
 yellow
 Red
